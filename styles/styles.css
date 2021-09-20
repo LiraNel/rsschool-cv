@@ -1,0 +1,156 @@
+
+body {
+	font-family: 'Cuprum', sans-serif;
+}
+
+.fon{
+	background-image: url("../img/fon 2.jpg");
+}
+header {
+	width: 100%;
+	height: 37px;
+}
+
+main {
+	width: 100%;	
+}
+.container {
+	width: 865px;
+	margin: 0 auto;
+}
+.cv-container {
+	margin-top: 45px;
+	height: 900px;	
+	line-height: 1;
+	font-size: 1em;
+	background-color: #fff;
+	-webkit-box-shadow: 0 10px 25px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0 0px 25px rgba(0,0,0,0.75);
+	-o-box-shadow: 0 10px 25px rgba(0,0,0,0.75);
+	box-shadow: 0 10px 25px rgba(0,0,0,0.75);
+}
+.cv-column-1{
+	padding: 0 25px 0 25px;
+	background-color: #d3c4ad;
+	width: 300px;
+	height: 855px;
+	display: block;
+	float: left;
+}
+.cv-photoname{
+	padding-top: 20px;
+}
+.cv-photo{
+	margin: 20px auto;
+	width: 250px;
+	height: 250px;
+	background-image:url("../img/foto.jpg");
+}
+.cv-name{
+	text-align: center;
+}
+.contacts{
+	
+}
+.cv-skills, .strengths{
+	padding-top: 10px;
+	padding-left: 25px;
+	font-size: 1.4em;
+}
+.cont{
+	padding-top: 15px;
+	padding-left: 25px;
+	list-style: none;
+	font-size: 1.6em;
+}
+.cv-column-2{
+	padding: 0 25px 0 25px;
+	width: 465px;
+	height: 855px;
+	display: block;
+	float: left;
+	background-color: #c3c4ad;
+}
+.subtitle{
+	margin-top: 25px;
+	padding-top: 10px;
+	padding-left: 30px;
+	height: 30px;	
+	background-color: #336633;
+	width: 97%;
+}
+.v-f{
+	padding-left: 52px;
+	width: 113px;
+	overflow:hidden;
+	float: left;
+	text-align: center;
+	cursor: pointer;
+}
+.v-f i{
+	width: 40px;
+	height: 40px;
+	background-color: rgba(0,0,0,0.2);
+	border-radius: 50%;
+	font-size: 22px;
+	line-height: 40px;
+}
+.eml{
+	padding-top: 15px;
+	padding-left: 25px;
+	list-style: none;
+	font-size: 1.6em;
+}
+.eml a{
+	color: #000;
+	text-decoration: none;
+}
+.eml a:hover{
+	text-decoration: underline;
+}
+.cv-skills, .strengths{
+	padding-top: 10px;
+	padding-left: 25px;
+	font-size: 1.4em;
+}
+.education{
+	padding-top: 20px;
+	padding-left: 25px;
+	font-size: 1.4em;
+	list-style: none;
+}
+.work{
+	padding-top: 18px;
+	padding-left: 25px;
+	font-size: 1.4em;
+	list-style: none;
+}
+.footer{
+	display: inline-block;
+	padding-top: 15px;
+	width: 100%;
+	height: 30px;
+	background-color: #336633;
+	font-size: 1.1em;
+} 
+.f-1{
+	padding-left: 20px;
+	width: 300px;
+	overflow:hidden;
+	float: left;
+	text-align: center;
+}
+.f-2{
+	padding-left: 20px;
+	width: 291px;
+	overflow:hidden;
+	float: left;
+	font-size: 1.2em;
+}
+.f3{
+	width: 293px;
+	overflow:hidden;
+	float: right;
+	text-align: center;
+}	
+
